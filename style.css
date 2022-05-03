@@ -1,0 +1,30 @@
+body, html {
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1110px;
+    height: 446px;
+    border: solid 1px red;
+    display: flex;
+    flex-direction: row;
+}
+
+.info {
+    width: 570px
+}
+.image {
+    width: 540px;
+    background-image: url('./images/image-header-desktop.jpg');
+}
