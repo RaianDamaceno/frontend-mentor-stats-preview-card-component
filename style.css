@@ -22,14 +22,12 @@ body, html {
     box-shadow: 0px 20px 20px rgba(23, 25, 41, 0.203087);
     border-radius: 8px;
     overflow: hidden
-    
 }
 
 .info-container {
     width: 570px;
     display: flex;
     justify-content: center;
-    
 }
 
 .info {
@@ -44,6 +42,7 @@ body, html {
         rgba(99, 40, 117, 0.8), 
         rgba(99, 40, 117, 0.8)
       ), url('./images/image-header-mobile.jpg'); 
+    background-size: 100% 100%;
 
 }
 
