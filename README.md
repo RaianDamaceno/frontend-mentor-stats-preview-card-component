@@ -8,7 +8,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ----------------------------------------------------------------
 
-## wEB
+## WEB
 ![](./screenshot1.jpg)
 ### Links
 
